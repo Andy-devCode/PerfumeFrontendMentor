@@ -10,7 +10,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 
 ## Doubts
-I don't know why if I add the styles for mobile-first, the browser only renders them when I use Dev-Tools ando not by itself
+I don't know why if I add the styles for mobile-first, the browser only renders them when I use Dev-Tools and not by itself
 ### Links
 
 - Solution URL:https://github.com/Andy-devCode/PerfumeFrontendMentor
