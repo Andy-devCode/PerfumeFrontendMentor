@@ -20,6 +20,8 @@ main{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Fraunces', serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .card-container{
     display: flex;
@@ -59,7 +61,10 @@ main{
     margin-bottom: 10px;
 }
 .text h2{
-    font-size: 3.9rem;
+    font-size: 3.5rem;
+    font-weight: 500;
+    font-family: 'Fraunces', serif;
+    color: var(--Very-dark-blue);
     margin-bottom: 10px;
 }
 .money{
@@ -69,7 +74,8 @@ main{
 .money .price{
     display: inline-block;
     margin-right: 20px ;
-    font-size: 3.9rem;
+    font-size: 3.5rem;
+    font-family: 'Fraunces', serif;
     color: var(--Dark-cyan);
 }
 .money .last-price{
